@@ -9,6 +9,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=giovannebohms" alt="Anurag's GitHub stats" style="height: 200px;">
   </a>
   <a href="https://github.com/giovannebohms/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannebohms" alt="Top Langs" style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannebohms&layout=compact" alt="Top Langs" style="height: 200px;">
   </a>
 </div>
