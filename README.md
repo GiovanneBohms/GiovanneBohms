@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-- 🌱 Estudando API Rest com integração a conexão de banco de dados
+- 🌱 Estudando C#
 - 💬 Me pergunte sobre finanças e teremos assunto por horas :)
 - 📫 Contate-me no email giovannebohms.dev@gmail.coom
 
