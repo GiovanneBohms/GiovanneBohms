@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-- 🌱 Estudando C#
+- 🌱 Estudando C# | .NET
 - 💬 Me pergunte sobre finanças e teremos assunto por horas :)
 - 📫 Contate-me no email giovannebohms.dev@gmail.coom
 
