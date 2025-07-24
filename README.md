@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-- 🌱 Me dedicando a C# | .NET
+- 🌱 Me dedicando a dominar sistemas de trading e modelagem de dados
 - 💬 Me pergunte sobre finanças e teremos assunto por horas :)
 - 📫 Contate-me no email giovannebohms.dev@gmail.coom
 
